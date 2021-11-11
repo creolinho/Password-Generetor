@@ -1,7 +1,7 @@
 import random
 from tkinter import *
 import tkinter
-import pyperclip
+
 from tkinter import ttk
 
 def cleaning_and_setting(password):
