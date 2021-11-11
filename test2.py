@@ -103,6 +103,9 @@ def create_input_frame(container):
         command=lambda: print(wrap_around.get()))
     wrap_around_check.grid(column=0, row=3, sticky=tkinter.W)
 
+
+    
+
     for widget in frame.winfo_children():
         widget.grid(padx=0, pady=5)
 
