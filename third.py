@@ -52,7 +52,7 @@ class password:
                     word = file.readline()
                     
 
-
+print(password.password_generator(length=9))
 
 '''codigo com a classe, e lidando com erros e todas as funções
  que arrumam e fazem as senhas'''
