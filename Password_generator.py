@@ -150,7 +150,7 @@ def create_main_window():
 
     # root window
     root = tkinter.Tk()
-    root.title('Replace')
+    root.title('Password Generator')
     root.geometry('400x130')
     root.resizable(0, 0)
    
