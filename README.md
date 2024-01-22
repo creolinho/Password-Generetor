@@ -1,4 +1,4 @@
-#Password Generator with Tkinter
+#Password Generator with Tkinter#
 This simple password generator is built using Python and Tkinter, providing a user-friendly interface for generating secure and customizable passwords. The application includes features such as capitalization, special character substitution, random password generation, and more.
 
 Features
